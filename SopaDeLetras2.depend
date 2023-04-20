@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674744378 source:c:\users\meu-portátil\desktop\programaçãomolde\c+ joveth\sopadeletras2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
